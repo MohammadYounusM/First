@@ -6,7 +6,7 @@ import 'about.dart';
 void main(List<String> args) {
   runApp(Myapp());
 }
-// first git
+// first
 ////////// PAGES ADRESSES
 class Myapp extends StatelessWidget {
   const Myapp({super.key});
